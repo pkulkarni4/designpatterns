@@ -1,7 +1,5 @@
 package behavioral.state;
 
-import structural.proxy.MediaPlayer;
-
 public class App {
     public static void main(String[] args) {
         var auction = new Auction();
